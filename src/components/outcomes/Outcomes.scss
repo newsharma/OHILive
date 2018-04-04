@@ -1,0 +1,14 @@
+.app-outcomes {
+  text-align: center;
+
+  .table {
+    tr {
+      text-align: left;
+
+      .progress {
+        height: 5px;
+        margin: 8px 0;
+      }
+    }
+  }
+}
